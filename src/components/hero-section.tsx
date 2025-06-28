@@ -69,7 +69,7 @@ export default function HeroSection() {
             size="lg"
             className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 rounded-full text-lg font-semibold transition-all duration-300"
           >
-            Let's Work Together
+            {"Let's"} Work Together
           </Button>
           <Button
             variant="outline"
